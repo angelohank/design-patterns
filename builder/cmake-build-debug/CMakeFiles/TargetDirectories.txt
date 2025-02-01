@@ -1,3 +1,0 @@
-C:/UTFPR/AS27S/design-patterns/builder/cmake-build-debug/CMakeFiles/builder.dir
-C:/UTFPR/AS27S/design-patterns/builder/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/UTFPR/AS27S/design-patterns/builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
